@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm Ahmed M. Atya</h1>
-<h3>A full-stack developer from Cairo, Egypt</h3>
+<h1>Full-stack developer based in Cairo, Egypt</h1>
 
 - 🔭 I’m currently working at Vyoo LLC as a senior frontend developer building their [Web Platform](https://app.vyoo.me)
 
