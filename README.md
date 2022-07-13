@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ahmed M. Atya</h1>
 <h3>A full-stack developer from Cairo, Egypt</h3>
 
-- 🔭 I’m currently working on [Vyoo LLC](https://app.vyoo.me)
+- 🔭 I’m currently working at Vyoo LLC as a senior frontend developer building their [Web Platform](https://app.vyoo.me)
 
 - 🌱 currently trying to master **GraphQL and tRPC**
 
