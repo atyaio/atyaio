@@ -1,6 +1,6 @@
 <h1>Full-stack developer based in Cairo, Egypt</h1>
 
-- 🔭 I’m currently working at Vyoo LLC as a senior frontend developer building their [Web Platform](https://app.vyoo.me)
+- 🔭 currently working full-time at Vyoo LLC as a senior frontend developer building their [Web Platform](https://app.vyoo.me)
 
 - 🌱 currently trying to master **GraphQL and tRPC**
 
