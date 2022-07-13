@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmed M. Atya</h1>
-<h3 align="center">A full-stack developer from Cairo, Egypt</h3>
+<h1>Hi 👋, I'm Ahmed M. Atya</h1>
+<h3>A full-stack developer from Cairo, Egypt</h3>
 
-- 🔭 I’m currently working on [Vyoo LLC](app.vyoo.me)
+- 🔭 I’m currently working on [Vyoo LLC](https://app.vyoo.me)
 
 - 🌱 currently trying to master **GraphQL and tRPC**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ahmed@atya.io**
 
-- ⚡ Fun fact **I have a seperate github account for my full-time job @ahmedmaherr**
+- ⚡ Fun fact **I have a seperate github account for my full-time job https://github.com/ahmedmaherr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
