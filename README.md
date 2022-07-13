@@ -1,17 +1,17 @@
 <h1>Hi 👋, I'm Ahmed M. Atya</h1>
 <h3>A full-stack developer from Cairo, Egypt</h3>
 
-- 🔭 I’m currently working at Vyoo LLC as a senior frontend developer building their [Web Platform](https://app.vyoo.me)
+- 🔭 I’m currently working on [Vyoo LLC](https://app.vyoo.me)
 
 - 🌱 currently trying to master **GraphQL and tRPC**
 
 - 💬 Ask me about **Everything Typescript and React**
 
-- 📫 How to reach me **ahmed@atya.io**
+- 📫 You can reach me at **ahmed@atya.io**
 
-- ⚡ Fun fact **I have a seperate github account for my full-time job https://github.com/ahmedmaherr**
+- ⚡ Fun fact **I have a seperate github account for my full-time job at https://github.com/ahmedmaherr**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find me at:</h3>
 <p align="left">
 <a href="https://twitter.com/atyaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atyaio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atiyahio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atiyahio" height="30" width="40" /></a>
